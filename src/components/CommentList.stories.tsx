@@ -42,7 +42,7 @@ export const Paginated: Story = {
         },
       },
       {
-        text: "Duis aute irure dolor in reprehenderit in voluptate.",
+        text: "Duis aute irure dolor in reprehenderit in voluptate modif.",
         author: {
           name: "Finn",
           avatar: "finn.jpeg",
