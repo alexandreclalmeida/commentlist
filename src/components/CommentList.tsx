@@ -84,7 +84,7 @@ const Author = styled.span`
 const CommentText = styled.span``;
 
 const GlobalStyle = createGlobalStyle`
-   @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,800');
+   @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,600,800');
  `;
 
 /**
