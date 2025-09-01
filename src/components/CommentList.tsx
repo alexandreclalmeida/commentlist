@@ -48,6 +48,8 @@ const CommentItem = styled.div`
     rgba(250, 250, 250, 0.95)
   );
   border-radius: 48px;
+  border: 4px solid red;
+  font-weight: bold;
 `;
 
 const Avatar = styled.div`
@@ -84,7 +86,7 @@ const Author = styled.span`
 const CommentText = styled.span``;
 
 const GlobalStyle = createGlobalStyle`
-   @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,600,800');
+   @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,800');
  `;
 
 /**
